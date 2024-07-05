@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(197, 226, 221);
+}
+h1{
+    text-align: center;
+    font-size: 300%;
+    color: rgb(144, 82, 1);
+    text-shadow: 2px 2px 2px black;
+}
+#a{
+    font-size: 200%;
+    padding-bottom: 20px;
+    color: red;
+    text-shadow: 2px 2px 2px black;
+}
+
+li{
+    padding-bottom: 10px;
+    font-size: 130%;
+}
+marquee{
+    margin-left: 400px;
+    width: 700px;
+}
